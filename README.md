@@ -29,7 +29,7 @@ This dashboard helps explore:
 
 ## 📊 Sample Visual
 
-<img width="1470" height="877" alt="image" src="https://github.com/user-attachments/assets/e2173777-4825-47c4-89ba-f0a1628437bd" />
+<img width="2398" height="1798" alt="image" src="https://github.com/user-attachments/assets/85e37350-2844-4ffd-8928-38e0fed61218" />
 
 
 ---
